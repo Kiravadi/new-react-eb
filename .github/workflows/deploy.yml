@@ -17,7 +17,7 @@ jobs:
         uses: aws-actions/amazon-ecr-login@v1
         with:
           registry: 957368471202.dkr.ecr.us-east-1.amazonaws.com
-          region: us-east-1
+          region: N. Virginia
 
       - name: Build Docker Image
         run: |
