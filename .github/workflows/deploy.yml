@@ -34,4 +34,4 @@ jobs:
           aws configure set default.region us-east-1
           eb deploy Reactapplication-env
 
-#test1
+#test2
